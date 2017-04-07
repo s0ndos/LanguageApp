@@ -8,6 +8,8 @@ public class LandingActivity extends AppCompatActivity {
     int test;
     int sondos;
     boolean tinyRick;
+
+    String name;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
